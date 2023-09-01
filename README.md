@@ -24,3 +24,7 @@ Here are some of my favorite activities which enjoy I at Chirala Beach
 - **Street Food**: The local street food scene in Chirala offers delightful Punugulu, crispy fried fritters, often served with a side of freshly sliced onions. A tasty and popular snack choice.
 
 
+
+[Link to MyStatus](MyStats.md)
+
+

@@ -8,3 +8,16 @@ I've had the privilege of participating in hackathons and have even won prizes. 
 
 
 ![Prudhvi](MyPic.jpg)
+
+---
+
+### Stay Fit, Improve Mobility, and Bond as a Team
+
+If you're aiming to stay in shape, enhance your mobility, and foster teamwork, consider adding these sports to your weekly routine:
+
+| Sport           | Reason to Recommend                                   | Weekly Hours |
+| --------------- | ----------------------------------------------------- | ------------ |
+| Cricket       | Great for improving coordination and team dynamics.  | 5-7 hours    |
+| BaskectBall          | Excellent for cardiovascular health and team dynamics.      | 3-5 hours    |
+| Batminten          | Perfect for exploring nature and staying fit.         | 6-8 hours    |
+| Swimming        | Low-impact exercise that engages the whole body.      | 2-5 hours    |

@@ -21,3 +21,15 @@ If you're aiming to stay in shape, enhance your mobility, and foster teamwork, c
 | BaskectBall          | Excellent for cardiovascular health and team dynamics.      | 3-5 hours    |
 | Batminten          | Perfect for exploring nature and staying fit.         | 6-8 hours    |
 | Swimming        | Low-impact exercise that engages the whole body.      | 2-5 hours    |
+
+---
+## Pithy Quotes by Scientists
+
+> Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.
+> -  *Dr. A.P.J. Abdul Kalam*
+
+> Man needs his difficulties because they are necessary to enjoy success.
+> - *Dr. A.P.J. Abdul Kalam*
+
+
+

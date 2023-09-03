@@ -31,5 +31,24 @@ If you're aiming to stay in shape, enhance your mobility, and foster teamwork, c
 > Man needs his difficulties because they are necessary to enjoy success.
 > - *Dr. A.P.J. Abdul Kalam*
 
+---
 
+## Code Fencing with stack overflow refference
+
+> **Question on Stack Overflow**:
+[Get Image Height and Width as integer values?](https://stackoverflow.com/questions/2179100/get-image-height-and-width-as-integer-values)
+
+**[Source: Stack Overflow](https://stackoverflow.com/questions/2179100/get-image-height-and-width-as-integer-values)**
+
+```php
+<?php
+  list($width, $height, $type, $attr) = getimagesize("url/to/image.jpg");
+
+  echo "Image width " . $width;
+  echo "Image height " . $height;
+  echo "Image type " . $type;
+  echo "Attribute " . $attr;
+?>
+```
+[Link to snippet source](https://css-tricks.com/snippets/php/get-widthheight-of-image/)
 

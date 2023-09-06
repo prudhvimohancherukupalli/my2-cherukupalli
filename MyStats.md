@@ -11,7 +11,7 @@ I've had the privilege of participating in hackathons and have even won prizes. 
 
 ---
 
-### Stay Fit, Improve Mobility, and Bond as a Team
+## Stay Fit, Improve Mobility, and Bond as a Team
 
 If you're aiming to stay in shape, enhance your mobility, and foster teamwork, consider adding these sports to your weekly routine:
 
@@ -38,7 +38,7 @@ If you're aiming to stay in shape, enhance your mobility, and foster teamwork, c
 > **Question on Stack Overflow**:
 [Get Image Height and Width as integer values?](https://stackoverflow.com/questions/2179100/get-image-height-and-width-as-integer-values)
 
-**[Source: Stack Overflow](https://stackoverflow.com/questions/2179100/get-image-height-and-width-as-integer-values)**
+**Stack Overflow** : <https://stackoverflow.com/questions/2179100/get-image-height-and-width-as-integer-values>
 
 ```php
 <?php
@@ -50,5 +50,5 @@ If you're aiming to stay in shape, enhance your mobility, and foster teamwork, c
   echo "Attribute " . $attr;
 ?>
 ```
-[Link to snippet source](https://css-tricks.com/snippets/php/get-widthheight-of-image/)
+<https://css-tricks.com/snippets/php/get-widthheight-of-image/>
 

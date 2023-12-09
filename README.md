@@ -28,6 +28,6 @@ Here are some of my favorite activities which enjoy I at Chirala Beach
 
 
 
-[Link to MyStatus](MyStats.md)
+[Link to MyStatus](Mytats.md)
 
 
